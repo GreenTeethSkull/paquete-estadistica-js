@@ -1,5 +1,5 @@
 {
-  "name": "@greeteethskull/paquete-estadistica",
+  "name": "@greenteethskull/paquete-estadistica",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -7,7 +7,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/GreenTeethSkull/paquete-estadistica-js.git"
+    "url": "git+https://github.com/GreenTeethSkull/paquete-estadistica-js.git"
   },
   "keywords": [],
   "author": "Angel Rios",
