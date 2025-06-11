@@ -1,4 +1,4 @@
-name: Publicar paquete en GitHub Packages
+name: Publicar paquete en GitHub Packages en mi Entorno
 on:
   push:
     branches:
